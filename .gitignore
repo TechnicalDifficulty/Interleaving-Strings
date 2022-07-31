@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/new 4.java
+/Interleaving Strings Test/bin/Debug/netcoreapp3.1
+/Interleaving Strings/bin/Debug/netcoreapp3.1
+/Interleaving Strings/obj/Release/netcoreapp3.1
+/Interleaving Strings/obj/Debug/netcoreapp3.1
+/Interleaving Strings/.vs/Interleaving Strings/DesignTimeBuild
+/Interleaving Strings/.vs/Interleaving Strings/v16/TestStore/0
